@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vpbaumgarten
 - 👀 I’m interested in ... Machine Learning and Cyber-Security
-- 🌱 I’m currently learning ... A lot of different things
+- 🌱 I’m currently learning ... Full-stack development
 - 💞️ I’m looking to collaborate on ... Anything and everything
 - 📫 How to reach me ... vpbtechnology@gmail.com or (561) 884-5057
 
